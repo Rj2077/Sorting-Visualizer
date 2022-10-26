@@ -24,7 +24,7 @@
 
 .bar{
     width: 10px;
-    background-color: aqua;
+    background-color: rgb(128, 0, 255);
     /* margin: 0 2px; */
     border-radius: 2px;
 }
